@@ -1,6 +1,6 @@
-# Substrate Cumulus Parachain Template
+# EHR-XCHAIN Cumulus Parachain 
 
-A new [Cumulus](https://github.com/paritytech/cumulus/)-based Substrate node, ready for hacking ☁️..
+A node to facilitate and test cross-chain messaging in the EHR-XCHAIN ecosystem.
 
 This project is originally a fork of the
 [Substrate Node Template](https://github.com/substrate-developer-hub/substrate-node-template)
